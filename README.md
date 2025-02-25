@@ -28,7 +28,7 @@ This repository contains the **Backend API**, which provides endpoints for submi
    ```
 3. Start the backend server (local use only):
    ```sh
-   node server.js
+   node index.js
    ```
 
 **Note:** This project is intended to run locally. Ensure that you have Node.js installed before running the application.
