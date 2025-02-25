@@ -1,7 +1,13 @@
 # Animal Rescue System - Backend
 
 ## Overview
-The **Animal Rescue System** is a backend service designed to support the reporting and management of animal rescue cases. It facilitates communication between the **User Report App** and the **Admin Dashboard**, ensuring that reported cases are properly stored and updated.
+# Animal Rescue System - Admin Dashboard
+
+## Overview
+The **Animal Rescue System** is a comprehensive platform designed to streamline the process of reporting and rescuing animals in distress. It consists of three main components:
+- **Admin Dashboard** - The UI for administrators to review and update the status of reported animal cases.
+- **Server** - The backend system that manages data and communication between users and administrators.
+- **User Report App** - The frontend application for users to report animal anomalies and track their case status.
 
 This repository contains the **Backend API**, which provides endpoints for submitting, retrieving, and updating animal rescue reports. **This project is designed to run locally and does not include a hosted deployment.**
 
