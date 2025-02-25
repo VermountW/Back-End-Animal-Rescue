@@ -1,9 +1,6 @@
 # Animal Rescue System - Backend
 
 ## Overview
-# Animal Rescue System - Admin Dashboard
-
-## Overview
 The **Animal Rescue System** is a comprehensive platform designed to streamline the process of reporting and rescuing animals in distress. It consists of three main components:
 - **Admin Dashboard** - The UI for administrators to review and update the status of reported animal cases.
 - **Server** - The backend system that manages data and communication between users and administrators.
