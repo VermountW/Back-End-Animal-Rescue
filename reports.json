@@ -1,0 +1,20 @@
+[
+  {
+    "animalSpecies": "Shiba Inu",
+    "animalType": "pet",
+    "location": "Taiwan Street Avenue, no 127",
+    "animalCondition": "Hurt",
+    "timestamp": "2024-12-11T01:49:11.518Z",
+    "status": "Team Arrived",
+    "id": 1
+  },
+  {
+    "animalSpecies": "Dog",
+    "animalType": "pet",
+    "location": "Pu",
+    "animalCondition": "Injured ",
+    "timestamp": "2024-12-11T02:03:38.141Z",
+    "status": "Team Arrived",
+    "id": 2
+  }
+]
